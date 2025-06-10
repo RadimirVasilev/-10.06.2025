@@ -1,0 +1,14 @@
+C:\Users\PC-01\source\repos\Test 10.06.2025\obj\Debug\net8.0\Test 10.06.2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-01\source\repos\Test 10.06.2025\obj\Debug\net8.0\Test 10.06.2025.AssemblyInfoInputs.cache
+C:\Users\PC-01\source\repos\Test 10.06.2025\obj\Debug\net8.0\Test 10.06.2025.AssemblyInfo.cs
+C:\Users\PC-01\source\repos\Test 10.06.2025\obj\Debug\net8.0\Test 10.06.2025.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\source\repos\Test 10.06.2025\bin\Debug\net8.0\Test 10.06.2025.exe
+C:\Users\PC-01\source\repos\Test 10.06.2025\bin\Debug\net8.0\Test 10.06.2025.deps.json
+C:\Users\PC-01\source\repos\Test 10.06.2025\bin\Debug\net8.0\Test 10.06.2025.runtimeconfig.json
+C:\Users\PC-01\source\repos\Test 10.06.2025\bin\Debug\net8.0\Test 10.06.2025.dll
+C:\Users\PC-01\source\repos\Test 10.06.2025\bin\Debug\net8.0\Test 10.06.2025.pdb
+C:\Users\PC-01\source\repos\Test 10.06.2025\obj\Debug\net8.0\Test 10.06.2025.dll
+C:\Users\PC-01\source\repos\Test 10.06.2025\obj\Debug\net8.0\refint\Test 10.06.2025.dll
+C:\Users\PC-01\source\repos\Test 10.06.2025\obj\Debug\net8.0\Test 10.06.2025.pdb
+C:\Users\PC-01\source\repos\Test 10.06.2025\obj\Debug\net8.0\Test 10.06.2025.genruntimeconfig.cache
+C:\Users\PC-01\source\repos\Test 10.06.2025\obj\Debug\net8.0\ref\Test 10.06.2025.dll
