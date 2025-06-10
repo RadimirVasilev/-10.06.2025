@@ -67,7 +67,7 @@
         {
             return first.CompareTo(second) > 0;
         }
-    //           Метод за смяна в масива
+    //                Метод за смяна 
     //                      |
     //                      V
         public static void Swap(int[] a, int i, int j)
